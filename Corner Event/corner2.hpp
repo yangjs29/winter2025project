@@ -1,5 +1,5 @@
-#ifndef CORNER2_CPP
-#define CORNER2_CPP
+#ifndef CORNER2_HPP
+#define CORNER2_HPP
 #include "corner_event.hpp"
 
 //코너 2 : 도서관(무인도). 

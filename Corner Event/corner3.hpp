@@ -1,5 +1,5 @@
-#ifndef CORNER3_CPP
-#define CORNER3_CPP
+#ifndef CORNER3_HPP
+#define CORNER3_HPP
 #include "corner_event.hpp"
 
 //코너 3 : 미니게임. 

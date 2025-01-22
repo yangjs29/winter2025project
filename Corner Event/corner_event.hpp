@@ -1,5 +1,5 @@
-#ifndef CORNER_EVENT_CPP
-#define CORNER_EVENT_CPP
+#ifndef CORNER_EVENT_HPP
+#define CORNER_EVENT_HPP
 #include "event.hpp"
 
 //코너 이벤트 클래스
